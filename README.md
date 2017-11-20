@@ -1,6 +1,6 @@
-# aaa
+# rocket-movies
 
-> A Vue.js project
+> 火箭影视
 
 ## Build Setup
 

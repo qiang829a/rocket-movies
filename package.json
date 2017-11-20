@@ -1,7 +1,7 @@
 {
-  "name": "aaa",
+  "name": "rocket-movies",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "火箭影视",
   "author": "study",
   "private": true,
   "scripts": {
